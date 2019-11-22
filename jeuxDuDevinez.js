@@ -3,7 +3,7 @@
 var body=document.body;
 var grandeDiv=document.createElement('div');
 grandeDiv.setAttribute('id','container');
-grandeDiv.setAttribute('style','width:600px;height:200px;background-color:rgb(233,189,16); border:4px solid black;' +
+grandeDiv.setAttribute('style','width:600px;height:200px; border:4px solid black;' +
     'left:100px;margin-left:200px;margin-top:100px;border-radius:10px;');
 body.appendChild(grandeDiv);
 //****************************************************************************************************************
